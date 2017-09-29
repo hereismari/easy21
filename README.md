@@ -7,3 +7,9 @@ Instructions available [here](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teachi
 ## How to run this?
 
 The resolution can be found at the `easy21.ipynb` notebook.
+
+```bash
+git clone https://github.com/mari-linhares/easy21
+cd easy21
+jupyter notebook
+```
