@@ -4,6 +4,8 @@ Solving Easy 21 assigment from [Reinforcement Learning class by David Silver](ht
 
 Full instructions for this task are available [here](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf).
 
+![](imgs/sarsa.gif)
+
 ## About
 
 This resource is intended to be a good place for beginners to get started with RL in a practical
