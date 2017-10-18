@@ -13,7 +13,7 @@ way and is basically a summary of the [RL course by David Silver](http://www0.cs
 
 Special thanks to:
   * David Silver for the great RL course;
-  * [AnalogRL implementation's of easy21](https://github.com/analog-rl/Easy21) which had clean code + great graphs
+  * [AnalogRL implementation's of easy21](https://github.com/analog-rl/Easy21) that has great graphs
     including the gifs you find in this notebook.
 
 ## How to run this?
@@ -27,5 +27,4 @@ cd easy21
 jupyter notebook
 ```
 
-
-Hope this helps and explore the environment :sunrise_over_mountains: :v:!
+Hope this helps :sunrise_over_mountains: :v:!
